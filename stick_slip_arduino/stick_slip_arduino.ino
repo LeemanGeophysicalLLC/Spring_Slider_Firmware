@@ -1,5 +1,5 @@
-#include <AccelStepper.h>
-#include <NBHX711.h>
+#include "AccelStepper.h"
+#include "NBHX711.h"
 
 // Pin Definitions
 uint8_t PIN_HX711_DATA = 3;
