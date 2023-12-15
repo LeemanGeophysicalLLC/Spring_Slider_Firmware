@@ -1,4 +1,4 @@
-# Spring Slider Earthquke Machine Firmware
+# Spring Slider Earthquake Machine Firmware
 
 This repo contains the Arduino code for the [spring slider earthquake machine](https://leemangeophysical.com/product/spring-slider/)
 developed and sold by Leeman Geophysical LLC. Be sure to check the documents section of the
